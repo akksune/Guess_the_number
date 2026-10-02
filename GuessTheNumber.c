@@ -73,7 +73,7 @@ void playGame(int maximum) {
             printf("Too high! Try again.\n");
         }
         else {
-            printf("\n🎉 Correct! You got it!\n");
+            printf("\nCorrect! You got it!\n");
             printf("The number was %d.\n", secretNumber);
             printf("You got it in %d attempt(s)!\n", attempts);
         }
